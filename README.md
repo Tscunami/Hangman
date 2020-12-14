@@ -1,3 +1,5 @@
+# Hangman Game
+
 Whole project is visible on:
 - https://repl.it/@LukNplava/Day-7-Hangman-5-Start#main.py
 
